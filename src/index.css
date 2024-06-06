@@ -10,6 +10,9 @@
     --text-p:hsl(217, 19%, 35%);
     --text-s:hsl(214, 17%, 51%);
 }
+.sha{
+    box-shadow: 1px 1px 50px var(--text-s);
+}
 .manrope-uniquifier{
     font-family: "Manrope", sans-serif;
     font-optical-sizing: auto;

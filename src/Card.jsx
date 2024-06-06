@@ -22,7 +22,7 @@ function Card () {
         }
 
     return( 
-        <div className=' relative box-border flex items-center  md:max-w-3xl md:max-h-72 justify-between bg-white rounded-lg manrope-uniquifier max-sm:flex-col'>
+        <div className=' relative box-border sha flex items-center  md:max-w-3xl md:max-h-72 justify-between bg-white rounded-lg manrope-uniquifier max-sm:flex-col'>
             <img src={Background} className=' w-72 h-72 max-sm:w-full md:rounded-l-lg'/>
             <div className='felx items-center justify-center p-10 max-sm:pb-8'> 
                 <p className='text-[var(--text-p)] font-semibold text-2xl mb-3 max-w-96 max-sm:w-76'>Shift the overall look and feel by adding
