@@ -19,7 +19,7 @@
     font-style: normal;
   }
 body{
-    background: var(--Grayish-Blue);
+    background: var(--Light-Grayish-Blue);
     height: 100vh;
     display: flex;
     align-items: center;
